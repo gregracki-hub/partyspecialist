@@ -26,8 +26,7 @@
 <section>
   <div class="container">
     <div class="gallery-filters">
-      <button class="active" onclick="filterGallery('all', this)">All</button>
-      <button onclick="filterGallery('food', this)">Food &amp; Drinks</button>
+      <button class="active" onclick="filterGallery('food', this)">Food &amp; Drinks</button>
       <button onclick="filterGallery('rooms', this)">Room Displays</button>
       <button onclick="filterGallery('cakes', this)">Cakes</button>
       <button onclick="filterGallery('guests', this)">Guests &amp; Celebrations</button>
@@ -95,16 +94,21 @@
     };
     const catLabels = { food:'Food & Drinks', rooms:'Room Displays', cakes:'Cakes', guests:'Guests & Celebrations' };
     const grid = document.getElementById('gallery');
-    Object.entries(galleryImages).forEach(([cat, files]) => {
-      files.forEach(f => {
+    function loadCategory(cat) {
+      grid.innerHTML = '';
+      galleryImages[cat].forEach(f => {
         const img = document.createElement('img');
         img.src = 'images/gallery/' + f;
         img.alt = catLabels[cat] + ' - The Party Specialist catering North Shore MA';
-        img.dataset.cat = cat;
         img.loading = 'lazy';
+        img.onclick = () => {
+          document.getElementById('lightbox-img').src = img.src;
+          document.getElementById('lightbox').classList.add('active');
+        };
         grid.appendChild(img);
       });
-    });
+    }
+    loadCategory('food');
     </script>
   </div>
 </section>
@@ -129,16 +133,8 @@
 function filterGallery(cat, btn) {
   document.querySelectorAll('.gallery-filters button').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
-  document.querySelectorAll('.gallery-grid img').forEach(img => {
-    img.style.display = (cat === 'all' || img.dataset.cat === cat) ? '' : 'none';
-  });
+  loadCategory(cat);
 }
-document.querySelectorAll('.gallery-grid img').forEach(img => {
-  img.onclick = () => {
-    document.getElementById('lightbox-img').src = img.src;
-    document.getElementById('lightbox').classList.add('active');
-  };
-});
 </script>
 </body>
 </html>
