@@ -1,0 +1,1396 @@
+{
+  "description": "Mapping of Wix CDN image IDs to local filenames for The Party Specialist gallery (complete site)",
+  "generated": "2026-03-03",
+  "images": [
+    {
+      "index": 1,
+      "wix_id": "6ec82b_eb697fc492eda5455f7cbf3f4caf7c2d",
+      "label": "Event Coordination",
+      "local_file": "event-coordination.png",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_eb697fc492eda5455f7cbf3f4caf7c2d.png"
+    },
+    {
+      "index": 2,
+      "wix_id": "6ec82b_ee9cdd28f9e24ef0846542152e5bec4e~mv2",
+      "label": "2020_03_07_Dawes_Rodman_0455_Original",
+      "local_file": "dawes-rodman.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_ee9cdd28f9e24ef0846542152e5bec4e~mv2.jpg"
+    },
+    {
+      "index": 3,
+      "wix_id": "6ec82b_6a20b90e7a81c2c8b3665d7b52c1f19b",
+      "label": "Caterer, Custom Menus",
+      "local_file": "custom-menus.png",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_6a20b90e7a81c2c8b3665d7b52c1f19b.png"
+    },
+    {
+      "index": 4,
+      "wix_id": "6ec82b_012d33d5d1134e88b52ade761b79db98~mv2_d_4016_6016_s_4_2",
+      "label": "AMT_7995 (Staff Photo)",
+      "local_file": "staff-photo.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_012d33d5d1134e88b52ade761b79db98~mv2_d_4016_6016_s_4_2.jpg"
+    },
+    {
+      "index": 5,
+      "wix_id": "6ec82b_2704671c4a91423e9c124468f3d75869~mv2",
+      "label": "0108201810",
+      "local_file": "event-celebration-01.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_2704671c4a91423e9c124468f3d75869~mv2.jpg"
+    },
+    {
+      "index": 6,
+      "wix_id": "6ec82b_4afbf9d5dc034c76a38b904069ff169c~mv2",
+      "label": "NEW TPS (6)",
+      "local_file": "new-tps-06.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_4afbf9d5dc034c76a38b904069ff169c~mv2.jpg"
+    },
+    {
+      "index": 7,
+      "wix_id": "6ec82b_b7ec0c9d57a94a9b8a80e5416832bfb0~mv2",
+      "label": "NEW TPS (7)",
+      "local_file": "new-tps-07.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_b7ec0c9d57a94a9b8a80e5416832bfb0~mv2.jpg"
+    },
+    {
+      "index": 8,
+      "wix_id": "6ec82b_ff72ded6329745659ce59bc3d3d76e7e~mv2",
+      "label": "NEW TPS (5)",
+      "local_file": "new-tps-05.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_ff72ded6329745659ce59bc3d3d76e7e~mv2.jpg"
+    },
+    {
+      "index": 9,
+      "wix_id": "6ec82b_535c33963ec74f9e8847f739bb4a3ea7~mv2",
+      "label": "NEW TPS (9)",
+      "local_file": "new-tps-09.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_535c33963ec74f9e8847f739bb4a3ea7~mv2.jpg"
+    },
+    {
+      "index": 10,
+      "wix_id": "6ec82b_f6e40975995544029e3fc0f018441654~mv2",
+      "label": "NEW TPS (1)",
+      "local_file": "new-tps-01.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_f6e40975995544029e3fc0f018441654~mv2.jpg"
+    },
+    {
+      "index": 11,
+      "wix_id": "6ec82b_89417f51cb6049eea2427d5b37d81af6~mv2",
+      "label": "NEW TPS (3)",
+      "local_file": "new-tps-03.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_89417f51cb6049eea2427d5b37d81af6~mv2.jpg"
+    },
+    {
+      "index": 12,
+      "wix_id": "6ec82b_a494ecfcc36d495ba07fbe798147e7c2~mv2",
+      "label": "NEW TPS (2)",
+      "local_file": "new-tps-02.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_a494ecfcc36d495ba07fbe798147e7c2~mv2.jpg"
+    },
+    {
+      "index": 13,
+      "wix_id": "6ec82b_4e1018418c9a4a48b5e95a09eeb9f8fe~mv2",
+      "label": "NEW TPS (4)",
+      "local_file": "new-tps-04.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_4e1018418c9a4a48b5e95a09eeb9f8fe~mv2.jpg"
+    },
+    {
+      "index": 14,
+      "wix_id": "6ec82b_03cfbc16cee845b4b714ebf07c66e818~mv2",
+      "label": "Pletka TPS_edited",
+      "local_file": "pletka-01.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_03cfbc16cee845b4b714ebf07c66e818~mv2.jpg"
+    },
+    {
+      "index": 15,
+      "wix_id": "6ec82b_184f10815a5646a7acacf534195128a4~mv2",
+      "label": "Pletka TPS 1",
+      "local_file": "pletka-02.png",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_184f10815a5646a7acacf534195128a4~mv2.png"
+    },
+    {
+      "index": 16,
+      "wix_id": "6ec82b_b891364e79e64c61b1e1c53ef85625c5~mv2",
+      "label": "Pletka TPS 2",
+      "local_file": "pletka-03.png",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_b891364e79e64c61b1e1c53ef85625c5~mv2.png"
+    },
+    {
+      "index": 17,
+      "wix_id": "6ec82b_830d5b15c3684ce197a8a89bd0623456~mv2",
+      "label": "Pletka TPS 4",
+      "local_file": "pletka-04.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_830d5b15c3684ce197a8a89bd0623456~mv2.jpg"
+    },
+    {
+      "index": 18,
+      "wix_id": "6ec82b_e6c2f1bccd7140989dc7b1da15498b72~mv2",
+      "label": "Pletka TPS 3",
+      "local_file": "pletka-05.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_e6c2f1bccd7140989dc7b1da15498b72~mv2.jpg"
+    },
+    {
+      "index": 19,
+      "wix_id": "6ec82b_afaf97856b07476492ebfd9cecbb09de~mv2",
+      "label": "Pletka TPS 5",
+      "local_file": "pletka-06.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_afaf97856b07476492ebfd9cecbb09de~mv2.jpg"
+    },
+    {
+      "index": 20,
+      "wix_id": "6ec82b_413635d904e648ef836d3e348cb0f52e~mv2",
+      "label": "Berger TPS",
+      "local_file": "berger-01.png",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_413635d904e648ef836d3e348cb0f52e~mv2.png"
+    },
+    {
+      "index": 21,
+      "wix_id": "6ec82b_955418b767a24679ab50589c92b66297~mv2",
+      "label": "Berger TPS 2",
+      "local_file": "berger-02.png",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_955418b767a24679ab50589c92b66297~mv2.png"
+    },
+    {
+      "index": 22,
+      "wix_id": "6ec82b_9aa642571d854d4fb1968638bbe1a642~mv2",
+      "label": "Berger TPS 1",
+      "local_file": "berger-03.png",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_9aa642571d854d4fb1968638bbe1a642~mv2.png"
+    },
+    {
+      "index": 23,
+      "wix_id": "6ec82b_73d3acfac9614691a781541aa501a201~mv2",
+      "label": "Berger TPS 3",
+      "local_file": "berger-04.png",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_73d3acfac9614691a781541aa501a201~mv2.png"
+    },
+    {
+      "index": 24,
+      "wix_id": "6ec82b_b7697836eab14bbd98280b00a5f10745~mv2",
+      "label": "Berger TPS 4",
+      "local_file": "berger-05.png",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_b7697836eab14bbd98280b00a5f10745~mv2.png"
+    },
+    {
+      "index": 25,
+      "wix_id": "6ec82b_a6e63a9de0dd456796accd94a2264b7a~mv2",
+      "label": "Berger TPS 5",
+      "local_file": "berger-06.png",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_a6e63a9de0dd456796accd94a2264b7a~mv2.png"
+    },
+    {
+      "index": 26,
+      "wix_id": "6ec82b_629ad4eaecd24f9fb4c56da897c4e26f~mv2",
+      "label": "Berger TPS 7",
+      "local_file": "berger-07.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_629ad4eaecd24f9fb4c56da897c4e26f~mv2.jpg"
+    },
+    {
+      "index": 27,
+      "wix_id": "6ec82b_473d0e09faa54a8c85aca4c257237318~mv2",
+      "label": "Berger TPS 6",
+      "local_file": "berger-08.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_473d0e09faa54a8c85aca4c257237318~mv2.jpg"
+    },
+    {
+      "index": 28,
+      "wix_id": "6ec82b_f227bc7a5cf54489815b0a1d2d3735f0~mv2",
+      "label": "Berger TPS 11",
+      "local_file": "berger-09.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_f227bc7a5cf54489815b0a1d2d3735f0~mv2.jpg"
+    },
+    {
+      "index": 29,
+      "wix_id": "6ec82b_2f9945e59da14d77a7fe93516ffaf147~mv2",
+      "label": "Berger TPS 8",
+      "local_file": "berger-10.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_2f9945e59da14d77a7fe93516ffaf147~mv2.jpg"
+    },
+    {
+      "index": 30,
+      "wix_id": "6ec82b_350eaa22b0774de6992c6f76b69151aa~mv2",
+      "label": "Berger TPS 10",
+      "local_file": "berger-11.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_350eaa22b0774de6992c6f76b69151aa~mv2.jpg"
+    },
+    {
+      "index": 31,
+      "wix_id": "6ec82b_021f9d9a518b46af84cbf2e0741c1dd1~mv2",
+      "label": "Berger TPS 9",
+      "local_file": "berger-12.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_021f9d9a518b46af84cbf2e0741c1dd1~mv2.jpg"
+    },
+    {
+      "index": 32,
+      "wix_id": "6ec82b_571740cc94d643dbab2457ba689e750f~mv2",
+      "label": "TPS NEWWW",
+      "local_file": "recent-01.jpeg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_571740cc94d643dbab2457ba689e750f~mv2.jpeg"
+    },
+    {
+      "index": 33,
+      "wix_id": "6ec82b_c5a5b2666bce403fb0a4bd9898957724~mv2",
+      "label": "TPS POST COVID PHOTO",
+      "local_file": "recent-02.jpeg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_c5a5b2666bce403fb0a4bd9898957724~mv2.jpeg"
+    },
+    {
+      "index": 34,
+      "wix_id": "6ec82b_f52381d1d1804fe7adde02d8eda8a2db~mv2",
+      "label": "TPS NEW",
+      "local_file": "recent-03.jpeg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_f52381d1d1804fe7adde02d8eda8a2db~mv2.jpeg"
+    },
+    {
+      "index": 35,
+      "wix_id": "6ec82b_5c2abfcba1f147e0b852817535daf552~mv2",
+      "label": "TPS NEWW",
+      "local_file": "recent-04.jpeg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_5c2abfcba1f147e0b852817535daf552~mv2.jpeg"
+    },
+    {
+      "index": 36,
+      "wix_id": "6ec82b_00188377e20c4e528b66ae532d765307~mv2_d_2048_1536_s_2",
+      "label": "Cake 1",
+      "local_file": "cake-01.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_00188377e20c4e528b66ae532d765307~mv2_d_2048_1536_s_2.jpg",
+      "source_page": "/cakes"
+    },
+    {
+      "index": 37,
+      "wix_id": "6ec82b_001ea43673ac471ba235bfb5d4ead647~mv2_d_3264_2448_s_4_2",
+      "label": "Food & Drinks 1",
+      "local_file": "food-01.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_001ea43673ac471ba235bfb5d4ead647~mv2_d_3264_2448_s_4_2.jpg",
+      "source_page": "/food-drinks-desserts"
+    },
+    {
+      "index": 38,
+      "wix_id": "6ec82b_00ce3c222d54619db25b3d57a911b1d3",
+      "label": "Guest Photo 1",
+      "local_file": "guest-01.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_00ce3c222d54619db25b3d57a911b1d3.jpg",
+      "source_page": "/guests"
+    },
+    {
+      "index": 39,
+      "wix_id": "6ec82b_0479b9520ee146be8a467d69f07bfa59~mv2",
+      "label": "Food & Drinks 2",
+      "local_file": "food-02.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_0479b9520ee146be8a467d69f07bfa59~mv2.jpg",
+      "source_page": "/food-drinks-desserts"
+    },
+    {
+      "index": 40,
+      "wix_id": "6ec82b_05b5efefff1d4d0dbe5059a7d6457d39~mv2_d_1512_2016_s_2",
+      "label": "Room Display 1",
+      "local_file": "room-display-01.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_05b5efefff1d4d0dbe5059a7d6457d39~mv2_d_1512_2016_s_2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 41,
+      "wix_id": "6ec82b_05bdbba370e649b9908750e4916a1c34",
+      "label": "Cake 2",
+      "local_file": "cake-02.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_05bdbba370e649b9908750e4916a1c34.jpg",
+      "source_page": "/cakes"
+    },
+    {
+      "index": 42,
+      "wix_id": "6ec82b_05c06e0404dc478ea63974011584016b~mv2",
+      "label": "Room Display 2",
+      "local_file": "room-display-02.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_05c06e0404dc478ea63974011584016b~mv2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 43,
+      "wix_id": "6ec82b_09f85c9dad9f9868aeb0329272689c37",
+      "label": "Guest Photo 2",
+      "local_file": "guest-02.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_09f85c9dad9f9868aeb0329272689c37.jpg",
+      "source_page": "/guests"
+    },
+    {
+      "index": 44,
+      "wix_id": "6ec82b_0a2853357b5641f0b5413dff09d4bd48~mv2_d_2016_1512_s_2",
+      "label": "Room Display 3",
+      "local_file": "room-display-03.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_0a2853357b5641f0b5413dff09d4bd48~mv2_d_2016_1512_s_2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 45,
+      "wix_id": "6ec82b_0bbb8e59ee964ef2b38a6ab2793bb24b~mv2",
+      "label": "Room Display 4",
+      "local_file": "room-display-04.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_0bbb8e59ee964ef2b38a6ab2793bb24b~mv2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 46,
+      "wix_id": "6ec82b_0ed4ff3be1d8f6bf6a28dc1fd379aa11",
+      "label": "Room Display 5",
+      "local_file": "room-display-05.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_0ed4ff3be1d8f6bf6a28dc1fd379aa11.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 47,
+      "wix_id": "6ec82b_0fea7160872446c1b98d6c7c6e5de607~mv2_d_1512_2016_s_2",
+      "label": "Room Display 6",
+      "local_file": "room-display-06.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_0fea7160872446c1b98d6c7c6e5de607~mv2_d_1512_2016_s_2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 48,
+      "wix_id": "6ec82b_13dd6bb1b192448ca6905a9794e35b90~mv2_d_3264_2448_s_4_2",
+      "label": "Food & Drinks 3",
+      "local_file": "food-03.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_13dd6bb1b192448ca6905a9794e35b90~mv2_d_3264_2448_s_4_2.jpg",
+      "source_page": "/food-drinks-desserts"
+    },
+    {
+      "index": 49,
+      "wix_id": "6ec82b_1661d52cb3f3567e3a3bd132a16ba762",
+      "label": "Guest Photo 3",
+      "local_file": "guest-03.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_1661d52cb3f3567e3a3bd132a16ba762.jpg",
+      "source_page": "/guests"
+    },
+    {
+      "index": 50,
+      "wix_id": "6ec82b_16a7c40e050b2df8107eb12caa7bc0b6",
+      "label": "Guest Photo 4",
+      "local_file": "guest-04.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_16a7c40e050b2df8107eb12caa7bc0b6.jpg",
+      "source_page": "/guests"
+    },
+    {
+      "index": 51,
+      "wix_id": "6ec82b_182955b858514629be50eb7f00452964~mv2",
+      "label": "Food & Drinks 4",
+      "local_file": "food-04.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_182955b858514629be50eb7f00452964~mv2.jpg",
+      "source_page": "/food-drinks-desserts"
+    },
+    {
+      "index": 52,
+      "wix_id": "6ec82b_198067e319ef40eb8d34a443a1548325~mv2",
+      "label": "Room Display 7",
+      "local_file": "room-display-07.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_198067e319ef40eb8d34a443a1548325~mv2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 53,
+      "wix_id": "6ec82b_1ad4c810aa37c7ff2aae6987e69f100b",
+      "label": "Guest Photo 5",
+      "local_file": "guest-05.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_1ad4c810aa37c7ff2aae6987e69f100b.jpg",
+      "source_page": "/guests"
+    },
+    {
+      "index": 54,
+      "wix_id": "6ec82b_1b6378d675134bedbafd18d3b9a7308b~mv2_d_2016_1512_s_2",
+      "label": "Room Display 8",
+      "local_file": "room-display-08.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_1b6378d675134bedbafd18d3b9a7308b~mv2_d_2016_1512_s_2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 55,
+      "wix_id": "6ec82b_20f28742dbba485ba31cde2ace425656",
+      "label": "Room Display 9",
+      "local_file": "room-display-09.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_20f28742dbba485ba31cde2ace425656.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 56,
+      "wix_id": "6ec82b_25df5dbde6ad438192af38fbe4eee10c~mv2",
+      "label": "Slideshow Gallery 1",
+      "local_file": "slideshow-01.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_25df5dbde6ad438192af38fbe4eee10c~mv2.jpg",
+      "source_page": "/slideshow"
+    },
+    {
+      "index": 57,
+      "wix_id": "6ec82b_274f29cabacd4faf883e6567c2cd32bd~mv2_d_3264_2448_s_4_2",
+      "label": "Food & Drinks 5",
+      "local_file": "food-05.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_274f29cabacd4faf883e6567c2cd32bd~mv2_d_3264_2448_s_4_2.jpg",
+      "source_page": "/food-drinks-desserts"
+    },
+    {
+      "index": 58,
+      "wix_id": "6ec82b_29ed237067eb4c9d9d0fd7e9d27f40ba~mv2_d_1600_1200_s_2",
+      "label": "Cake 3",
+      "local_file": "cake-03.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_29ed237067eb4c9d9d0fd7e9d27f40ba~mv2_d_1600_1200_s_2.jpg",
+      "source_page": "/cakes"
+    },
+    {
+      "index": 59,
+      "wix_id": "6ec82b_29fa2ab135748de1cc6c1c7c7d7fff98",
+      "label": "Room Display 10",
+      "local_file": "room-display-10.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_29fa2ab135748de1cc6c1c7c7d7fff98.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 60,
+      "wix_id": "6ec82b_2a77d1cc4f8975d5c74ca8d110af9aa5",
+      "label": "Room Display 11",
+      "local_file": "room-display-11.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_2a77d1cc4f8975d5c74ca8d110af9aa5.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 61,
+      "wix_id": "6ec82b_2ac5a1c9d87569d063be058950704e63",
+      "label": "Guest Photo 6",
+      "local_file": "guest-06.png",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_2ac5a1c9d87569d063be058950704e63.png",
+      "source_page": "/guests"
+    },
+    {
+      "index": 62,
+      "wix_id": "6ec82b_2d5967be99d011305fda1ee35f87fcca",
+      "label": "Guest Photo 7",
+      "local_file": "guest-07.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_2d5967be99d011305fda1ee35f87fcca.jpg",
+      "source_page": "/guests"
+    },
+    {
+      "index": 63,
+      "wix_id": "6ec82b_3401348d3d8647f59a5662d9bf9036bb",
+      "label": "Room Display 12",
+      "local_file": "room-display-12.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_3401348d3d8647f59a5662d9bf9036bb.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 64,
+      "wix_id": "6ec82b_35017f2c58f6483293136aebc3d3f79c~mv2_d_2447_1677_s_2",
+      "label": "Food & Drinks 6",
+      "local_file": "food-06.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_35017f2c58f6483293136aebc3d3f79c~mv2_d_2447_1677_s_2.jpg",
+      "source_page": "/food-drinks-desserts"
+    },
+    {
+      "index": 65,
+      "wix_id": "6ec82b_352cb86723ad04a2f288747b7ee18f34",
+      "label": "Room Display 13",
+      "local_file": "room-display-13.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_352cb86723ad04a2f288747b7ee18f34.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 66,
+      "wix_id": "6ec82b_35795b4869b04e40abf8b16511e17b6d~mv2",
+      "label": "Room Display 14",
+      "local_file": "room-display-14.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_35795b4869b04e40abf8b16511e17b6d~mv2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 67,
+      "wix_id": "6ec82b_36d44cfe8f10c3a1b058bc7376cdf720",
+      "label": "Room Display 15",
+      "local_file": "room-display-15.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_36d44cfe8f10c3a1b058bc7376cdf720.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 68,
+      "wix_id": "6ec82b_36e156d5a5b73468cded5053a4454e29",
+      "label": "Miscellaneous 1",
+      "local_file": "misc-01.png",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_36e156d5a5b73468cded5053a4454e29.png",
+      "source_page": "various"
+    },
+    {
+      "index": 69,
+      "wix_id": "6ec82b_3e142e3ebedae4b5d6eaefdfa50b232e",
+      "label": "Guest Photo 8",
+      "local_file": "guest-08.png",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_3e142e3ebedae4b5d6eaefdfa50b232e.png",
+      "source_page": "/guests"
+    },
+    {
+      "index": 70,
+      "wix_id": "6ec82b_3e6b36342144c3d850e61728a7b8285d",
+      "label": "Food & Drinks 7",
+      "local_file": "food-07.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_3e6b36342144c3d850e61728a7b8285d.jpg",
+      "source_page": "/food-drinks-desserts"
+    },
+    {
+      "index": 71,
+      "wix_id": "6ec82b_40299926f009bd124d2c571cce5f715b",
+      "label": "Room Display 16",
+      "local_file": "room-display-16.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_40299926f009bd124d2c571cce5f715b.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 72,
+      "wix_id": "6ec82b_402a8fbe01394099b881caeb7d309abf~mv2_d_3839_2543_s_4_2",
+      "label": "Food & Drinks 8",
+      "local_file": "food-08.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_402a8fbe01394099b881caeb7d309abf~mv2_d_3839_2543_s_4_2.jpg",
+      "source_page": "/food-drinks-desserts"
+    },
+    {
+      "index": 73,
+      "wix_id": "6ec82b_473109b7a9ec420eb185c6715f8b5fb1~mv2",
+      "label": "Slideshow Gallery 2",
+      "local_file": "slideshow-02.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_473109b7a9ec420eb185c6715f8b5fb1~mv2.jpg",
+      "source_page": "/slideshow"
+    },
+    {
+      "index": 74,
+      "wix_id": "6ec82b_538638c2b67e4fd8ac4da4d028a8a887~mv2",
+      "label": "Room Display 17",
+      "local_file": "room-display-17.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_538638c2b67e4fd8ac4da4d028a8a887~mv2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 75,
+      "wix_id": "6ec82b_55b7a90995354a22889a7626ca8f4b52~mv2",
+      "label": "Guest Photo 9",
+      "local_file": "guest-09.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_55b7a90995354a22889a7626ca8f4b52~mv2.jpg",
+      "source_page": "/guests"
+    },
+    {
+      "index": 76,
+      "wix_id": "6ec82b_5670f4d77e444cafbfe047e86ccd6727~mv2_d_3264_2448_s_4_2",
+      "label": "Food & Drinks 9",
+      "local_file": "food-09.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_5670f4d77e444cafbfe047e86ccd6727~mv2_d_3264_2448_s_4_2.jpg",
+      "source_page": "/food-drinks-desserts"
+    },
+    {
+      "index": 77,
+      "wix_id": "6ec82b_56e5b2e8d907cb3523575d6229d1f778",
+      "label": "Room Display 18",
+      "local_file": "room-display-18.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_56e5b2e8d907cb3523575d6229d1f778.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 78,
+      "wix_id": "6ec82b_578789d19b9c4730a7016d5bb59ae26b~mv2",
+      "label": "Room Display 19",
+      "local_file": "room-display-19.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_578789d19b9c4730a7016d5bb59ae26b~mv2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 79,
+      "wix_id": "6ec82b_57af58c8a1db4764a686d6d6729815d9~mv2_d_4016_6016_s_4_2",
+      "label": "Food & Drinks 10",
+      "local_file": "food-10.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_57af58c8a1db4764a686d6d6729815d9~mv2_d_4016_6016_s_4_2.jpg",
+      "source_page": "/food-drinks-desserts"
+    },
+    {
+      "index": 80,
+      "wix_id": "6ec82b_58d313ddc702434997044eab39635ce8~mv2",
+      "label": "Room Display 20",
+      "local_file": "room-display-20.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_58d313ddc702434997044eab39635ce8~mv2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 81,
+      "wix_id": "6ec82b_59a09664577f4b889fed67a01980e9eb~mv2",
+      "label": "Slideshow Gallery 3",
+      "local_file": "slideshow-03.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_59a09664577f4b889fed67a01980e9eb~mv2.jpg",
+      "source_page": "/slideshow"
+    },
+    {
+      "index": 82,
+      "wix_id": "6ec82b_59cf674b5d405bf231de4c8d3b17cb78",
+      "label": "Room Display 21",
+      "local_file": "room-display-21.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_59cf674b5d405bf231de4c8d3b17cb78.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 83,
+      "wix_id": "6ec82b_5a4f486dea2d2a62c3f6c40c2ac61111",
+      "label": "Room Display 22",
+      "local_file": "room-display-22.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_5a4f486dea2d2a62c3f6c40c2ac61111.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 84,
+      "wix_id": "6ec82b_5c758d16cecf49c5adaf978a7c79a644~mv2_d_4032_3024_s_4_2",
+      "label": "Room Display 23",
+      "local_file": "room-display-23.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_5c758d16cecf49c5adaf978a7c79a644~mv2_d_4032_3024_s_4_2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 85,
+      "wix_id": "6ec82b_5d8cfa4f8f2f3620f928a4b45c133b42",
+      "label": "Cake 4",
+      "local_file": "cake-04.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_5d8cfa4f8f2f3620f928a4b45c133b42.jpg",
+      "source_page": "/cakes"
+    },
+    {
+      "index": 86,
+      "wix_id": "6ec82b_5df472ca0d1b4f24bdaf34e3da683ed2~mv2",
+      "label": "Room Display 24",
+      "local_file": "room-display-24.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_5df472ca0d1b4f24bdaf34e3da683ed2~mv2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 87,
+      "wix_id": "6ec82b_5ee601577ea241a38f5c326f5428e925~mv2",
+      "label": "Room Display 25",
+      "local_file": "room-display-25.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_5ee601577ea241a38f5c326f5428e925~mv2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 88,
+      "wix_id": "6ec82b_61bec057c90f4b61ae7c2b4465f1d524~mv2",
+      "label": "Room Display 26",
+      "local_file": "room-display-26.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_61bec057c90f4b61ae7c2b4465f1d524~mv2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 89,
+      "wix_id": "6ec82b_63dc328477864e76b14e0a17c215997d~mv2",
+      "label": "Guest Photo 10",
+      "local_file": "guest-10.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_63dc328477864e76b14e0a17c215997d~mv2.jpg",
+      "source_page": "/guests"
+    },
+    {
+      "index": 90,
+      "wix_id": "6ec82b_686655d986b44b25968d3e02bf72e272~mv2",
+      "label": "Cake 5",
+      "local_file": "cake-05.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_686655d986b44b25968d3e02bf72e272~mv2.jpg",
+      "source_page": "/cakes"
+    },
+    {
+      "index": 91,
+      "wix_id": "6ec82b_6c642e5bdf0b4a16b9501be678a38515",
+      "label": "Guest Photo 11",
+      "local_file": "guest-11.png",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_6c642e5bdf0b4a16b9501be678a38515.png",
+      "source_page": "/guests"
+    },
+    {
+      "index": 92,
+      "wix_id": "6ec82b_6e822a5428e1106aa934164b8c44b383",
+      "label": "Guest Photo 12",
+      "local_file": "guest-12.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_6e822a5428e1106aa934164b8c44b383.jpg",
+      "source_page": "/guests"
+    },
+    {
+      "index": 93,
+      "wix_id": "6ec82b_713561c3b52e4695bf1a495ac354cee7~mv2_d_2016_1512_s_2",
+      "label": "Room Display 27",
+      "local_file": "room-display-27.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_713561c3b52e4695bf1a495ac354cee7~mv2_d_2016_1512_s_2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 94,
+      "wix_id": "6ec82b_740c35c618ea2dcd3ccde15f99ad60a3",
+      "label": "Food & Drinks 11",
+      "local_file": "food-11.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_740c35c618ea2dcd3ccde15f99ad60a3.jpg",
+      "source_page": "/food-drinks-desserts"
+    },
+    {
+      "index": 95,
+      "wix_id": "6ec82b_74c52bafd6304586b1ace529ce1f9f57",
+      "label": "Room Display 28",
+      "local_file": "room-display-28.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_74c52bafd6304586b1ace529ce1f9f57.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 96,
+      "wix_id": "6ec82b_75bb8c1f2f2b432eefcb9d39b302c694",
+      "label": "Room Display 29",
+      "local_file": "room-display-29.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_75bb8c1f2f2b432eefcb9d39b302c694.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 97,
+      "wix_id": "6ec82b_76efac0f73634e1b9cd1993d6cb74154~mv2",
+      "label": "Food & Drinks 12",
+      "local_file": "food-12.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_76efac0f73634e1b9cd1993d6cb74154~mv2.jpg",
+      "source_page": "/food-drinks-desserts"
+    },
+    {
+      "index": 98,
+      "wix_id": "6ec82b_771cb241129e6c48ce5682b4a4787339",
+      "label": "Room Display 30",
+      "local_file": "room-display-30.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_771cb241129e6c48ce5682b4a4787339.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 99,
+      "wix_id": "6ec82b_772111202864419f9168b22032af7593~mv2",
+      "label": "Guest Photo 13",
+      "local_file": "guest-13.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_772111202864419f9168b22032af7593~mv2.jpg",
+      "source_page": "/guests"
+    },
+    {
+      "index": 100,
+      "wix_id": "6ec82b_774abac38b70b20467f35a505b192ce7",
+      "label": "Guest Photo 14",
+      "local_file": "guest-14.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_774abac38b70b20467f35a505b192ce7.jpg",
+      "source_page": "/guests"
+    },
+    {
+      "index": 101,
+      "wix_id": "6ec82b_7a1921e01e32aa62890578c81aa63896",
+      "label": "Guest Photo 15",
+      "local_file": "guest-15.png",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_7a1921e01e32aa62890578c81aa63896.png",
+      "source_page": "/guests"
+    },
+    {
+      "index": 102,
+      "wix_id": "6ec82b_7abc1c24e92755b546894b53a369527c",
+      "label": "Room Display 31",
+      "local_file": "room-display-31.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_7abc1c24e92755b546894b53a369527c.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 103,
+      "wix_id": "6ec82b_7d2edc63af2346d780a656a97808c9ba~mv2_d_4016_6016_s_4_2",
+      "label": "Slideshow Gallery 4",
+      "local_file": "slideshow-04.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_7d2edc63af2346d780a656a97808c9ba~mv2_d_4016_6016_s_4_2.jpg",
+      "source_page": "/slideshow"
+    },
+    {
+      "index": 104,
+      "wix_id": "6ec82b_7d5059518b224745a28d076a7b6f2030",
+      "label": "Room Display 32",
+      "local_file": "room-display-32.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_7d5059518b224745a28d076a7b6f2030.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 105,
+      "wix_id": "6ec82b_7ed6bf1d4bbe49c3b3ec94b8f20f1e2e~mv2_d_4032_3024_s_4_2",
+      "label": "Room Display 33",
+      "local_file": "room-display-33.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_7ed6bf1d4bbe49c3b3ec94b8f20f1e2e~mv2_d_4032_3024_s_4_2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 106,
+      "wix_id": "6ec82b_802c83f2c0af46e6b2d97ada9a0fa99b~mv2_d_2304_1536_s_2",
+      "label": "Room Display 34",
+      "local_file": "room-display-34.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_802c83f2c0af46e6b2d97ada9a0fa99b~mv2_d_2304_1536_s_2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 107,
+      "wix_id": "6ec82b_806dbed949414fd58c73e0ee90cb1e49~mv2_d_5658_3772_s_4_2",
+      "label": "Room Display 35",
+      "local_file": "room-display-35.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_806dbed949414fd58c73e0ee90cb1e49~mv2_d_5658_3772_s_4_2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 108,
+      "wix_id": "6ec82b_80d01c438fcbdfd235f8d9348bfc76c4",
+      "label": "Guest Photo 16",
+      "local_file": "guest-16.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_80d01c438fcbdfd235f8d9348bfc76c4.jpg",
+      "source_page": "/guests"
+    },
+    {
+      "index": 109,
+      "wix_id": "6ec82b_8137e1ff623248a3be7fed783c3c0cd5~mv2_d_1536_2048_s_2",
+      "label": "Room Display 36",
+      "local_file": "room-display-36.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_8137e1ff623248a3be7fed783c3c0cd5~mv2_d_1536_2048_s_2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 110,
+      "wix_id": "6ec82b_8146ff1b4c58d9c8f06db5eae70b5d46",
+      "label": "Guest Photo 17",
+      "local_file": "guest-17.png",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_8146ff1b4c58d9c8f06db5eae70b5d46.png",
+      "source_page": "/guests"
+    },
+    {
+      "index": 111,
+      "wix_id": "6ec82b_8266a959ca7c414ab7028e94d9418faf~mv2",
+      "label": "Food & Drinks 13",
+      "local_file": "food-13.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_8266a959ca7c414ab7028e94d9418faf~mv2.jpg",
+      "source_page": "/food-drinks-desserts"
+    },
+    {
+      "index": 112,
+      "wix_id": "6ec82b_8270429a150481a81981943453436e7c",
+      "label": "Guest Photo 18",
+      "local_file": "guest-18.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_8270429a150481a81981943453436e7c.jpg",
+      "source_page": "/guests"
+    },
+    {
+      "index": 113,
+      "wix_id": "6ec82b_89c9b489c9156d7f0db2bba0cf5c3b23",
+      "label": "Room Display 37",
+      "local_file": "room-display-37.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_89c9b489c9156d7f0db2bba0cf5c3b23.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 114,
+      "wix_id": "6ec82b_8c4cd7ac54ee4a8086ff40fdefa4860d~mv2",
+      "label": "Room Display 38",
+      "local_file": "room-display-38.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_8c4cd7ac54ee4a8086ff40fdefa4860d~mv2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 115,
+      "wix_id": "6ec82b_8e113fc36aa74a3411c62fd17b4afe49",
+      "label": "Room Display 39",
+      "local_file": "room-display-39.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_8e113fc36aa74a3411c62fd17b4afe49.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 116,
+      "wix_id": "6ec82b_8fa18f0014f44d2e80d2d455f3fac2f8~mv2",
+      "label": "Room Display 40",
+      "local_file": "room-display-40.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_8fa18f0014f44d2e80d2d455f3fac2f8~mv2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 117,
+      "wix_id": "6ec82b_941b5015d67b20ee4dae9e2df8ef2f98",
+      "label": "Room Display 41",
+      "local_file": "room-display-41.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_941b5015d67b20ee4dae9e2df8ef2f98.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 118,
+      "wix_id": "6ec82b_9af9526a30ea4fb4baf2fde2b8e1cec1~mv2_d_1512_2016_s_2",
+      "label": "Room Display 42",
+      "local_file": "room-display-42.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_9af9526a30ea4fb4baf2fde2b8e1cec1~mv2_d_1512_2016_s_2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 119,
+      "wix_id": "6ec82b_9dfa954406d04ef6a53f9d4ce3ab14a5~mv2",
+      "label": "Room Display 43",
+      "local_file": "room-display-43.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_9dfa954406d04ef6a53f9d4ce3ab14a5~mv2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 120,
+      "wix_id": "6ec82b_a06069fbad8840cbbd95c43c206c0160~mv2_d_2304_1536_s_2",
+      "label": "Cake 6",
+      "local_file": "cake-06.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_a06069fbad8840cbbd95c43c206c0160~mv2_d_2304_1536_s_2.jpg",
+      "source_page": "/cakes"
+    },
+    {
+      "index": 121,
+      "wix_id": "6ec82b_a1ef43cdc3844d7eb00f6de6870eb966",
+      "label": "Room Display 44",
+      "local_file": "room-display-44.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_a1ef43cdc3844d7eb00f6de6870eb966.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 122,
+      "wix_id": "6ec82b_aac3fc141d8d95cfcae066bc51a26eb2",
+      "label": "Room Display 45",
+      "local_file": "room-display-45.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_aac3fc141d8d95cfcae066bc51a26eb2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 123,
+      "wix_id": "6ec82b_ab3e82d5e76e4230a27e8247234c10a5~mv2",
+      "label": "Cake 7",
+      "local_file": "cake-07.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_ab3e82d5e76e4230a27e8247234c10a5~mv2.jpg",
+      "source_page": "/cakes"
+    },
+    {
+      "index": 124,
+      "wix_id": "6ec82b_abce30893c79cca3827cf24e3b05657a",
+      "label": "Guest Photo 19",
+      "local_file": "guest-19.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_abce30893c79cca3827cf24e3b05657a.jpg",
+      "source_page": "/guests"
+    },
+    {
+      "index": 125,
+      "wix_id": "6ec82b_ac2f728b3dd3e75f63fb94cd2d4155db",
+      "label": "Room Display 46",
+      "local_file": "room-display-46.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_ac2f728b3dd3e75f63fb94cd2d4155db.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 126,
+      "wix_id": "6ec82b_af3075619ae24a8fa77973334e6ba403~mv2",
+      "label": "Room Display 47",
+      "local_file": "room-display-47.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_af3075619ae24a8fa77973334e6ba403~mv2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 127,
+      "wix_id": "6ec82b_b1bf4fdc7749a62999efb9e4dd8c4025",
+      "label": "Room Display 48",
+      "local_file": "room-display-48.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_b1bf4fdc7749a62999efb9e4dd8c4025.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 128,
+      "wix_id": "6ec82b_b27f797018645b5574c65a4f7c343135",
+      "label": "Guest Photo 20",
+      "local_file": "guest-20.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_b27f797018645b5574c65a4f7c343135.jpg",
+      "source_page": "/guests"
+    },
+    {
+      "index": 129,
+      "wix_id": "6ec82b_b2cbdcd17f91ab96496e13f596bb3835",
+      "label": "Food & Drinks 14",
+      "local_file": "food-14.png",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_b2cbdcd17f91ab96496e13f596bb3835.png",
+      "source_page": "/food-drinks-desserts"
+    },
+    {
+      "index": 130,
+      "wix_id": "6ec82b_b45768652bcde41e9016950136b636ce",
+      "label": "Room Display 49",
+      "local_file": "room-display-49.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_b45768652bcde41e9016950136b636ce.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 131,
+      "wix_id": "6ec82b_b6418abcee7f4cfb8fba18e54bd26b0e~mv2_d_1512_2016_s_2",
+      "label": "Room Display 50",
+      "local_file": "room-display-50.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_b6418abcee7f4cfb8fba18e54bd26b0e~mv2_d_1512_2016_s_2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 132,
+      "wix_id": "6ec82b_b68913b561454124aa62a3cd5e7d9442~mv2_d_2016_1512_s_2",
+      "label": "Room Display 51",
+      "local_file": "room-display-51.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_b68913b561454124aa62a3cd5e7d9442~mv2_d_2016_1512_s_2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 133,
+      "wix_id": "6ec82b_b6e1e009367d418c92a366368309171a~mv2",
+      "label": "Room Display 52",
+      "local_file": "room-display-52.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_b6e1e009367d418c92a366368309171a~mv2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 134,
+      "wix_id": "6ec82b_b99fd518546841c182613aba03c503fb~mv2",
+      "label": "Guest Photo 21",
+      "local_file": "guest-21.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_b99fd518546841c182613aba03c503fb~mv2.jpg",
+      "source_page": "/guests"
+    },
+    {
+      "index": 135,
+      "wix_id": "6ec82b_ba873c7244cc3bc4b680c36ae3762415",
+      "label": "Room Display 53",
+      "local_file": "room-display-53.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_ba873c7244cc3bc4b680c36ae3762415.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 136,
+      "wix_id": "6ec82b_bac1193a702362d1c0662a7f142cffc4",
+      "label": "Room Display 54",
+      "local_file": "room-display-54.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_bac1193a702362d1c0662a7f142cffc4.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 137,
+      "wix_id": "6ec82b_bc3c7252fb6a448397dc73257a12d3bf~mv2_d_3504_2336_s_2",
+      "label": "Room Display 55",
+      "local_file": "room-display-55.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_bc3c7252fb6a448397dc73257a12d3bf~mv2_d_3504_2336_s_2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 138,
+      "wix_id": "6ec82b_bde5e7c408590b9dfce8f7edfb9d8d1f",
+      "label": "Cake 8",
+      "local_file": "cake-08.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_bde5e7c408590b9dfce8f7edfb9d8d1f.jpg",
+      "source_page": "/cakes"
+    },
+    {
+      "index": 139,
+      "wix_id": "6ec82b_c47c4e8ac88cf5f2848882b969d1e9cf",
+      "label": "Room Display 56",
+      "local_file": "room-display-56.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_c47c4e8ac88cf5f2848882b969d1e9cf.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 140,
+      "wix_id": "6ec82b_c93ac18d1dc942dbbfb4e2d3e25e6252~mv2_d_1512_2016_s_2",
+      "label": "Room Display 57",
+      "local_file": "room-display-57.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_c93ac18d1dc942dbbfb4e2d3e25e6252~mv2_d_1512_2016_s_2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 141,
+      "wix_id": "6ec82b_cb3fe13609e9b4baae05f1edf47074c4",
+      "label": "Room Display 58",
+      "local_file": "room-display-58.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_cb3fe13609e9b4baae05f1edf47074c4.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 142,
+      "wix_id": "6ec82b_cd295ec32b129f335eb1a8e9102c8344",
+      "label": "Guest Photo 22",
+      "local_file": "guest-22.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_cd295ec32b129f335eb1a8e9102c8344.jpg",
+      "source_page": "/guests"
+    },
+    {
+      "index": 143,
+      "wix_id": "6ec82b_ceda92cce18e108ee7f5302b78d4219b",
+      "label": "Room Display 59",
+      "local_file": "room-display-59.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_ceda92cce18e108ee7f5302b78d4219b.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 144,
+      "wix_id": "6ec82b_cf3a512ba4f3433da7f36afb9188b4fd~mv2_d_2016_3024_s_2",
+      "label": "Room Display 60",
+      "local_file": "room-display-60.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_cf3a512ba4f3433da7f36afb9188b4fd~mv2_d_2016_3024_s_2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 145,
+      "wix_id": "6ec82b_d103db44c6a84d5489ba2a408aac5be6~mv2",
+      "label": "Room Display 61",
+      "local_file": "room-display-61.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_d103db44c6a84d5489ba2a408aac5be6~mv2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 146,
+      "wix_id": "6ec82b_d2320ab1ccc44f8097bb8421d3d81e3b~mv2",
+      "label": "Room Display 62",
+      "local_file": "room-display-62.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_d2320ab1ccc44f8097bb8421d3d81e3b~mv2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 147,
+      "wix_id": "6ec82b_d2b31178390d5b769d6b6f73fb50bd37",
+      "label": "Guest Photo 23",
+      "local_file": "guest-23.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_d2b31178390d5b769d6b6f73fb50bd37.jpg",
+      "source_page": "/guests"
+    },
+    {
+      "index": 148,
+      "wix_id": "6ec82b_d2f64c2278c3cfb703b4a22ca7c88b75",
+      "label": "Cake 9",
+      "local_file": "cake-09.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_d2f64c2278c3cfb703b4a22ca7c88b75.jpg",
+      "source_page": "/cakes"
+    },
+    {
+      "index": 149,
+      "wix_id": "6ec82b_d32c650adfbb4d4fa7671d7ecb5848dc",
+      "label": "Room Display 63",
+      "local_file": "room-display-63.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_d32c650adfbb4d4fa7671d7ecb5848dc.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 150,
+      "wix_id": "6ec82b_d3308c514717fe3748c2eb6588e7fe28",
+      "label": "Food & Drinks 15",
+      "local_file": "food-15.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_d3308c514717fe3748c2eb6588e7fe28.jpg",
+      "source_page": "/food-drinks-desserts"
+    },
+    {
+      "index": 151,
+      "wix_id": "6ec82b_d34d34b53d89426b8c99e455468f85cf~mv2",
+      "label": "Cake 10",
+      "local_file": "cake-10.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_d34d34b53d89426b8c99e455468f85cf~mv2.jpg",
+      "source_page": "/cakes"
+    },
+    {
+      "index": 152,
+      "wix_id": "6ec82b_d418a7f66ce8482dae4d88584ee89c06~mv2_d_1512_2016_s_2",
+      "label": "Food & Drinks 16",
+      "local_file": "food-16.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_d418a7f66ce8482dae4d88584ee89c06~mv2_d_1512_2016_s_2.jpg",
+      "source_page": "/food-drinks-desserts"
+    },
+    {
+      "index": 153,
+      "wix_id": "6ec82b_d442d60e17794393a84efd494ee60eb1",
+      "label": "Room Display 64",
+      "local_file": "room-display-64.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_d442d60e17794393a84efd494ee60eb1.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 154,
+      "wix_id": "6ec82b_d44c593246da4f1982689ec4bc6b1478~mv2_d_3456_2304_s_2",
+      "label": "Room Display 65",
+      "local_file": "room-display-65.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_d44c593246da4f1982689ec4bc6b1478~mv2_d_3456_2304_s_2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 155,
+      "wix_id": "6ec82b_d4546c0e6f2743849f1a80a6343d5ef1~mv2_d_3548_2838_s_4_2",
+      "label": "Cake 11",
+      "local_file": "cake-11.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_d4546c0e6f2743849f1a80a6343d5ef1~mv2_d_3548_2838_s_4_2.jpg",
+      "source_page": "/cakes"
+    },
+    {
+      "index": 156,
+      "wix_id": "6ec82b_d5125a30439edfb6e4d5130f4ab8d333",
+      "label": "Room Display 66",
+      "local_file": "room-display-66.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_d5125a30439edfb6e4d5130f4ab8d333.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 157,
+      "wix_id": "6ec82b_d56f06d763e94c44bc824c749567981c~mv2",
+      "label": "Food & Drinks 17",
+      "local_file": "food-17.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_d56f06d763e94c44bc824c749567981c~mv2.jpg",
+      "source_page": "/food-drinks-desserts"
+    },
+    {
+      "index": 158,
+      "wix_id": "6ec82b_d5e332e252ac4e078760bff8a717e9e3~mv2",
+      "label": "Cake 12",
+      "local_file": "cake-12.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_d5e332e252ac4e078760bff8a717e9e3~mv2.jpg",
+      "source_page": "/cakes"
+    },
+    {
+      "index": 159,
+      "wix_id": "6ec82b_d63011791496463faca30c1876ea78f2~mv2",
+      "label": "Room Display 67",
+      "local_file": "room-display-67.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_d63011791496463faca30c1876ea78f2~mv2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 160,
+      "wix_id": "6ec82b_dc2ab5cc5335ee2de5d4cde780010c3b",
+      "label": "Room Display 68",
+      "local_file": "room-display-68.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_dc2ab5cc5335ee2de5d4cde780010c3b.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 161,
+      "wix_id": "6ec82b_dc8a5eb340b219d0db804f8690221cf4",
+      "label": "Room Display 69",
+      "local_file": "room-display-69.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_dc8a5eb340b219d0db804f8690221cf4.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 162,
+      "wix_id": "6ec82b_dd2b5816f6c53d1a14ad561e8c3c8849",
+      "label": "Cake 13",
+      "local_file": "cake-13.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_dd2b5816f6c53d1a14ad561e8c3c8849.jpg",
+      "source_page": "/cakes"
+    },
+    {
+      "index": 163,
+      "wix_id": "6ec82b_e07b5dc0530be17dc01a708acc2b52d2",
+      "label": "Guest Photo 24",
+      "local_file": "guest-24.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_e07b5dc0530be17dc01a708acc2b52d2.jpg",
+      "source_page": "/guests"
+    },
+    {
+      "index": 164,
+      "wix_id": "6ec82b_e26e1fd0a5f94c24a91f39c787b91ab2",
+      "label": "Room Display 70",
+      "local_file": "room-display-70.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_e26e1fd0a5f94c24a91f39c787b91ab2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 165,
+      "wix_id": "6ec82b_e8f52af75d9e3cfe002050b9a99ea7b9",
+      "label": "Guest Photo 25",
+      "local_file": "guest-25.png",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_e8f52af75d9e3cfe002050b9a99ea7b9.png",
+      "source_page": "/guests"
+    },
+    {
+      "index": 166,
+      "wix_id": "6ec82b_eabeef05807d40c18838d94bde900648~mv2_d_3839_2543_s_4_2",
+      "label": "Food & Drinks 18",
+      "local_file": "food-18.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_eabeef05807d40c18838d94bde900648~mv2_d_3839_2543_s_4_2.jpg",
+      "source_page": "/food-drinks-desserts"
+    },
+    {
+      "index": 167,
+      "wix_id": "6ec82b_ebb97372768f40f79dd040ae928a0f1c~mv2",
+      "label": "Room Display 71",
+      "local_file": "room-display-71.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_ebb97372768f40f79dd040ae928a0f1c~mv2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 168,
+      "wix_id": "6ec82b_ec19d734740e4fd8878f0c5f0b7497db~mv2_d_2304_1536_s_2",
+      "label": "Cake 14",
+      "local_file": "cake-14.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_ec19d734740e4fd8878f0c5f0b7497db~mv2_d_2304_1536_s_2.jpg",
+      "source_page": "/cakes"
+    },
+    {
+      "index": 169,
+      "wix_id": "6ec82b_ecaa92399b12094210b8c2c0a57fd0a3",
+      "label": "Guest Photo 26",
+      "local_file": "guest-26.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_ecaa92399b12094210b8c2c0a57fd0a3.jpg",
+      "source_page": "/guests"
+    },
+    {
+      "index": 170,
+      "wix_id": "6ec82b_edbf3a3a5d07795b7b8e8605f8fe5e36",
+      "label": "Miscellaneous 2",
+      "local_file": "misc-02.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_edbf3a3a5d07795b7b8e8605f8fe5e36.jpg",
+      "source_page": "various"
+    },
+    {
+      "index": 171,
+      "wix_id": "6ec82b_f1f4607cd67f4651a6bc6124213b7a3d",
+      "label": "Room Display 72",
+      "local_file": "room-display-72.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_f1f4607cd67f4651a6bc6124213b7a3d.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 172,
+      "wix_id": "6ec82b_f42ac01735244cc9b75fa29d7fdee94a~mv2_d_1936_2592_s_2",
+      "label": "Room Display 73",
+      "local_file": "room-display-73.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_f42ac01735244cc9b75fa29d7fdee94a~mv2_d_1936_2592_s_2.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 173,
+      "wix_id": "6ec82b_f7aefc43351eee2434c0aec214bc59c5",
+      "label": "Food & Drinks 19",
+      "local_file": "food-19.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_f7aefc43351eee2434c0aec214bc59c5.jpg",
+      "source_page": "/food-drinks-desserts"
+    },
+    {
+      "index": 174,
+      "wix_id": "6ec82b_fa56faf0a72a796f95da7755be5a5fc8",
+      "label": "Room Display 74",
+      "local_file": "room-display-74.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_fa56faf0a72a796f95da7755be5a5fc8.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 175,
+      "wix_id": "6ec82b_fa6397ff1d83fcdd0b3f475d2d8ab89b",
+      "label": "Guest Photo 27",
+      "local_file": "guest-27.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_fa6397ff1d83fcdd0b3f475d2d8ab89b.jpg",
+      "source_page": "/guests"
+    },
+    {
+      "index": 176,
+      "wix_id": "6ec82b_fa7dee5e9577f3049e3ed86ae5c14a83",
+      "label": "Cake 15",
+      "local_file": "cake-15.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_fa7dee5e9577f3049e3ed86ae5c14a83.jpg",
+      "source_page": "/cakes"
+    },
+    {
+      "index": 177,
+      "wix_id": "6ec82b_fe5ce52f995849a894d496764e64deb6",
+      "label": "Room Display 75",
+      "local_file": "room-display-75.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_fe5ce52f995849a894d496764e64deb6.jpg",
+      "source_page": "/room-displays"
+    },
+    {
+      "index": 178,
+      "wix_id": "6ec82b_feac51a984cb48f8b1f05b4e3fbb17e8",
+      "label": "Room Display 76",
+      "local_file": "room-display-76.jpg",
+      "wix_url": "https://static.wixstatic.com/media/6ec82b_feac51a984cb48f8b1f05b4e3fbb17e8.jpg",
+      "source_page": "/room-displays"
+    }
+  ],
+  "total_count": 178
+}

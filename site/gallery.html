@@ -27,47 +27,85 @@
   <div class="container">
     <div class="gallery-filters">
       <button class="active" onclick="filterGallery('all', this)">All</button>
-      <button onclick="filterGallery('food', this)">Food &amp; Presentation</button>
+      <button onclick="filterGallery('food', this)">Food &amp; Drinks</button>
       <button onclick="filterGallery('rooms', this)">Room Displays</button>
-      <button onclick="filterGallery('events', this)">Events</button>
+      <button onclick="filterGallery('cakes', this)">Cakes</button>
+      <button onclick="filterGallery('guests', this)">Guests &amp; Celebrations</button>
     </div>
-    <div class="gallery-grid" id="gallery">
-      <!-- Food & Presentation -->
-      <img src="images/gallery/custom-menus.png" alt="Custom menu presentation - gourmet catering North Shore" data-cat="food" loading="lazy">
-      <img src="images/gallery/food-01.jpg" alt="Gourmet food display - catering Swampscott MA" data-cat="food" loading="lazy">
-      <img src="images/gallery/food-plated-dinner.jpg" alt="Plated dinner service - wedding catering Marblehead" data-cat="food" loading="lazy">
-      <img src="images/gallery/food-appetizers.jpg" alt="Appetizer display - event catering North Shore MA" data-cat="food" loading="lazy">
-      <img src="images/gallery/food-desserts.jpg" alt="Dessert presentation - gourmet caterer Massachusetts" data-cat="food" loading="lazy">
-      <img src="images/gallery/food-station.jpg" alt="Food station setup - bar mitzvah catering" data-cat="food" loading="lazy">
-      <img src="images/gallery/food-buffet.jpg" alt="Buffet display - corporate event catering" data-cat="food" loading="lazy">
-      <img src="images/gallery/food-hors-doeuvres.jpg" alt="Hors d'oeuvres presentation - luxury catering" data-cat="food" loading="lazy">
-      <img src="images/gallery/food-cocktails.jpg" alt="Cocktail service - event planner Swampscott" data-cat="food" loading="lazy">
-      <img src="images/gallery/food-presentation.jpg" alt="Catering presentation - The Party Specialist" data-cat="food" loading="lazy">
-      <!-- Room Displays & Events -->
-      <img src="images/gallery/room-setup-01.jpg" alt="Wedding reception setup - North Shore event planning" data-cat="rooms" loading="lazy">
-      <img src="images/gallery/menu-presentation.jpg" alt="Menu presentation - gourmet catering" data-cat="food" loading="lazy">
-      <img src="images/gallery/room-display-01.png" alt="Event room display - caterer North Shore" data-cat="rooms" loading="lazy">
-      <img src="images/gallery/room-display-02.png" alt="Table setting - luxury event catering" data-cat="rooms" loading="lazy">
-      <img src="images/gallery/room-display-03.jpg" alt="Party setup - event planner Massachusetts" data-cat="rooms" loading="lazy">
-      <img src="images/gallery/event-celebration-01.jpg" alt="Celebration setup - bar mitzvah event" data-cat="events" loading="lazy">
-      <img src="images/gallery/event-decoration-01.jpg" alt="Event decoration - party planner North Shore" data-cat="events" loading="lazy">
-      <img src="images/gallery/event-display-01.png" alt="Event display - The Party Specialist catering" data-cat="events" loading="lazy">
-      <img src="images/gallery/event-party-01.png" alt="Party decoration - Swampscott event planner" data-cat="events" loading="lazy">
-      <img src="images/gallery/room-display-04.png" alt="Catering setup - luxury event North Shore MA" data-cat="rooms" loading="lazy">
-      <img src="images/gallery/room-display-05.png" alt="Room design - event planner Marblehead" data-cat="rooms" loading="lazy">
-      <img src="images/gallery/event-detail-01.png" alt="Event decoration detail - catering Massachusetts" data-cat="events" loading="lazy">
-      <img src="images/gallery/event-detail-02.png" alt="Celebration detail - party planner" data-cat="events" loading="lazy">
-      <img src="images/gallery/event-photo-01.jpg" alt="Event photo - The Party Specialist" data-cat="events" loading="lazy">
-      <img src="images/gallery/event-photo-02.jpg" alt="Party scene - North Shore caterer" data-cat="events" loading="lazy">
-      <img src="images/gallery/event-photo-03.jpg" alt="Celebration - event planning Swampscott MA" data-cat="events" loading="lazy">
-      <img src="images/gallery/room-setup-01.jpg" alt="Event setup - catering North Shore" data-cat="rooms" loading="lazy">
-      <img src="images/gallery/event-photo-04.jpg" alt="Party photo - gourmet caterer" data-cat="events" loading="lazy">
-      <img src="images/gallery/event-photo-05.jpg" alt="Event photo - The Party Specialist LLC" data-cat="events" loading="lazy">
-      <img src="images/gallery/event-photo-06.jpeg" alt="Celebration photo - caterer Massachusetts" data-cat="events" loading="lazy">
-      <img src="images/gallery/room-setup-02.jpeg" alt="Event setup photo - North Shore event planner" data-cat="rooms" loading="lazy">
-      <img src="images/gallery/event-photo-07.jpeg" alt="Party photo - Swampscott caterer" data-cat="events" loading="lazy">
-      <img src="images/gallery/event-photo-08.jpeg" alt="Celebration photo - event catering" data-cat="events" loading="lazy">
-    </div>
+    <div class="gallery-grid" id="gallery"></div>
+    <script>
+    // All gallery images organized by category
+    const galleryImages = {
+      food: [
+        'custom-menus.png','food-01.jpg','food-02.jpg','food-03.jpg','food-04.jpg','food-05.jpg',
+        'food-06.jpg','food-07.jpg','food-08.jpg','food-09.jpg','food-10.jpg','food-11.jpg',
+        'food-12.jpg','food-13.jpg','food-14.png','food-15.jpg','food-16.jpg','food-17.jpg',
+        'food-18.jpg','food-19.jpg','food-plated-dinner.jpg','food-appetizers.jpg','food-desserts.jpg',
+        'food-station.jpg','food-buffet.jpg','food-hors-doeuvres.jpg','food-cocktails.jpg',
+        'food-presentation.jpg','menu-presentation.jpg'
+      ],
+      rooms: [
+        'room-display-01.jpg','room-display-02.jpg','room-display-03.jpg','room-display-04.jpg',
+        'room-display-05.jpg','room-display-06.jpg','room-display-07.jpg','room-display-08.jpg',
+        'room-display-09.jpg','room-display-10.jpg','room-display-11.jpg','room-display-12.jpg',
+        'room-display-13.jpg','room-display-14.jpg','room-display-15.jpg','room-display-16.jpg',
+        'room-display-17.jpg','room-display-18.jpg','room-display-19.jpg','room-display-20.jpg',
+        'room-display-21.jpg','room-display-22.jpg','room-display-23.jpg','room-display-24.jpg',
+        'room-display-25.jpg','room-display-26.jpg','room-display-27.jpg','room-display-28.jpg',
+        'room-display-29.jpg','room-display-30.jpg','room-display-31.jpg','room-display-32.jpg',
+        'room-display-33.jpg','room-display-34.jpg','room-display-35.jpg','room-display-36.jpg',
+        'room-display-37.jpg','room-display-38.jpg','room-display-39.jpg','room-display-40.jpg',
+        'room-display-41.jpg','room-display-42.jpg','room-display-43.jpg','room-display-44.jpg',
+        'room-display-45.jpg','room-display-46.jpg','room-display-47.jpg','room-display-48.jpg',
+        'room-display-49.jpg','room-display-50.jpg','room-display-51.jpg','room-display-52.jpg',
+        'room-display-53.jpg','room-display-54.jpg','room-display-55.jpg','room-display-56.jpg',
+        'room-display-57.jpg','room-display-58.jpg','room-display-59.jpg','room-display-60.jpg',
+        'room-display-61.jpg','room-display-62.jpg','room-display-63.jpg','room-display-64.jpg',
+        'room-display-65.jpg','room-display-66.jpg','room-display-67.jpg','room-display-68.jpg',
+        'room-display-69.jpg','room-display-70.jpg','room-display-71.jpg','room-display-72.jpg',
+        'room-display-73.jpg','room-display-74.jpg','room-display-75.jpg','room-display-76.jpg',
+        'room-setup-01.jpg','room-setup-02.jpeg'
+      ],
+      cakes: [
+        'cake-01.jpg','cake-02.jpg','cake-03.jpg','cake-04.jpg','cake-05.jpg',
+        'cake-06.jpg','cake-07.jpg','cake-08.jpg','cake-09.jpg','cake-10.jpg',
+        'cake-11.jpg','cake-12.jpg','cake-13.jpg','cake-14.jpg','cake-15.jpg'
+      ],
+      guests: [
+        'guest-01.jpg','guest-02.jpg','guest-03.jpg','guest-04.jpg','guest-05.jpg',
+        'guest-06.png','guest-07.jpg','guest-08.png','guest-09.jpg','guest-10.jpg',
+        'guest-11.png','guest-12.jpg','guest-13.jpg','guest-14.jpg','guest-15.png',
+        'guest-16.jpg','guest-17.png','guest-18.jpg','guest-19.jpg','guest-20.jpg',
+        'guest-21.jpg','guest-22.jpg','guest-23.jpg','guest-24.jpg','guest-25.png',
+        'guest-26.jpg','guest-27.jpg',
+        'event-celebration-01.jpg','event-decoration-01.jpg','event-display-01.png',
+        'event-party-01.png','event-detail-01.png','event-detail-02.png',
+        'event-photo-01.jpg','event-photo-02.jpg','event-photo-03.jpg','event-photo-04.jpg',
+        'event-photo-05.jpg','event-photo-06.jpeg','event-photo-07.jpeg','event-photo-08.jpeg',
+        'slideshow-01.jpg','slideshow-02.jpg','slideshow-03.jpg','slideshow-04.jpg',
+        'new-tps-01.jpg','new-tps-02.jpg','new-tps-03.jpg','new-tps-04.jpg',
+        'new-tps-05.jpg','new-tps-06.jpg','new-tps-07.jpg','new-tps-09.jpg',
+        'pletka-01.jpg','pletka-02.jpg','pletka-03.jpg','pletka-04.jpg','pletka-05.jpg','pletka-06.jpg',
+        'berger-01.png','berger-02.png','berger-03.png','berger-04.png','berger-05.png',
+        'berger-06.png','berger-07.jpg','berger-08.jpg','berger-09.jpg','berger-10.jpg',
+        'berger-11.jpg','berger-12.jpg',
+        'recent-01.jpeg','recent-02.jpeg','recent-03.jpeg','recent-04.jpeg',
+        'dawes-rodman.jpg'
+      ]
+    };
+    const catLabels = { food:'Food & Drinks', rooms:'Room Displays', cakes:'Cakes', guests:'Guests & Celebrations' };
+    const grid = document.getElementById('gallery');
+    Object.entries(galleryImages).forEach(([cat, files]) => {
+      files.forEach(f => {
+        const img = document.createElement('img');
+        img.src = 'images/gallery/' + f;
+        img.alt = catLabels[cat] + ' - The Party Specialist catering North Shore MA';
+        img.dataset.cat = cat;
+        img.loading = 'lazy';
+        grid.appendChild(img);
+      });
+    });
+    </script>
   </div>
 </section>
 
