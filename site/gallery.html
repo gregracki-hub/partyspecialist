@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Event Gallery | The Party Specialist - Catering Photos North Shore MA</title>
+<meta name="description" content="Browse photos from The Party Specialist's catered events: food presentations, room displays, cakes, and celebrations on Boston's North Shore.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Open+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="top-bar"><div class="container"><span>55 Atlantic Avenue, Swampscott, MA 01907</span><span><a href="tel:+17815920988" class="phone">(781) 592-0988</a> &nbsp;|&nbsp; <a href="mailto:thepartyspecialistllc@gmail.com">thepartyspecialistllc@gmail.com</a></span></div></div>
+<header><div class="container"><a href="index.html" class="logo"><img src="images/logo.svg" alt="The Party Specialist logo" width="55" height="55"><div><span class="logo-text">The Party Specialist</span><span class="logo-sub">Gourmet Catering &amp; Event Planning</span></div></a><button class="menu-toggle" onclick="document.querySelector('nav').classList.toggle('open')" aria-label="Toggle menu">&#9776;</button><nav><a href="index.html">Home</a><a href="story.html">Our Story</a><a href="services.html">Services</a><a href="menus.html">Menus</a><a href="gallery.html" class="active">Gallery</a><a href="testimonials.html">Testimonials</a><a href="faq.html">FAQ</a><a href="contact.html" class="cta-btn">Check Availability</a></nav></div></header>
+
+<section style="background: #1B2A4A; color: #FFF8F0; padding: 60px 0; text-align: center;">
+  <div class="container">
+    <p class="overline" style="color: #C5A55A;">Our Work</p>
+    <h1 style="color: #FFF8F0;">Event Gallery</h1>
+    <div class="gold-line"></div>
+    <p style="max-width: 600px; margin: 0 auto; opacity: 0.85;">A sample of our food, presentations, room setups, and celebrations. No two events are the same &mdash; together we customize everything for you.</p>
+  </div>
+</section>
+
+<section>
+  <div class="container">
+    <div class="gallery-filters">
+      <button class="active" onclick="filterGallery('all', this)">All</button>
+      <button onclick="filterGallery('food', this)">Food &amp; Presentation</button>
+      <button onclick="filterGallery('rooms', this)">Room Displays</button>
+      <button onclick="filterGallery('events', this)">Events</button>
+    </div>
+    <div class="gallery-grid" id="gallery">
+      <!-- Food & Presentation -->
+      <img src="images/gallery/custom-menus.png" alt="Custom menu presentation - gourmet catering North Shore" data-cat="food" loading="lazy">
+      <img src="images/gallery/food-01.jpg" alt="Gourmet food display - catering Swampscott MA" data-cat="food" loading="lazy">
+      <img src="images/gallery/food-plated-dinner.jpg" alt="Plated dinner service - wedding catering Marblehead" data-cat="food" loading="lazy">
+      <img src="images/gallery/food-appetizers.jpg" alt="Appetizer display - event catering North Shore MA" data-cat="food" loading="lazy">
+      <img src="images/gallery/food-desserts.jpg" alt="Dessert presentation - gourmet caterer Massachusetts" data-cat="food" loading="lazy">
+      <img src="images/gallery/food-station.jpg" alt="Food station setup - bar mitzvah catering" data-cat="food" loading="lazy">
+      <img src="images/gallery/food-buffet.jpg" alt="Buffet display - corporate event catering" data-cat="food" loading="lazy">
+      <img src="images/gallery/food-hors-doeuvres.jpg" alt="Hors d'oeuvres presentation - luxury catering" data-cat="food" loading="lazy">
+      <img src="images/gallery/food-cocktails.jpg" alt="Cocktail service - event planner Swampscott" data-cat="food" loading="lazy">
+      <img src="images/gallery/food-presentation.jpg" alt="Catering presentation - The Party Specialist" data-cat="food" loading="lazy">
+      <!-- Room Displays & Events -->
+      <img src="images/gallery/room-setup-01.jpg" alt="Wedding reception setup - North Shore event planning" data-cat="rooms" loading="lazy">
+      <img src="images/gallery/menu-presentation.jpg" alt="Menu presentation - gourmet catering" data-cat="food" loading="lazy">
+      <img src="images/gallery/room-display-01.png" alt="Event room display - caterer North Shore" data-cat="rooms" loading="lazy">
+      <img src="images/gallery/room-display-02.png" alt="Table setting - luxury event catering" data-cat="rooms" loading="lazy">
+      <img src="images/gallery/room-display-03.jpg" alt="Party setup - event planner Massachusetts" data-cat="rooms" loading="lazy">
+      <img src="images/gallery/event-celebration-01.jpg" alt="Celebration setup - bar mitzvah event" data-cat="events" loading="lazy">
+      <img src="images/gallery/event-decoration-01.jpg" alt="Event decoration - party planner North Shore" data-cat="events" loading="lazy">
+      <img src="images/gallery/event-display-01.png" alt="Event display - The Party Specialist catering" data-cat="events" loading="lazy">
+      <img src="images/gallery/event-party-01.png" alt="Party decoration - Swampscott event planner" data-cat="events" loading="lazy">
+      <img src="images/gallery/room-display-04.png" alt="Catering setup - luxury event North Shore MA" data-cat="rooms" loading="lazy">
+      <img src="images/gallery/room-display-05.png" alt="Room design - event planner Marblehead" data-cat="rooms" loading="lazy">
+      <img src="images/gallery/event-detail-01.png" alt="Event decoration detail - catering Massachusetts" data-cat="events" loading="lazy">
+      <img src="images/gallery/event-detail-02.png" alt="Celebration detail - party planner" data-cat="events" loading="lazy">
+      <img src="images/gallery/event-photo-01.jpg" alt="Event photo - The Party Specialist" data-cat="events" loading="lazy">
+      <img src="images/gallery/event-photo-02.jpg" alt="Party scene - North Shore caterer" data-cat="events" loading="lazy">
+      <img src="images/gallery/event-photo-03.jpg" alt="Celebration - event planning Swampscott MA" data-cat="events" loading="lazy">
+      <img src="images/gallery/room-setup-01.jpg" alt="Event setup - catering North Shore" data-cat="rooms" loading="lazy">
+      <img src="images/gallery/event-photo-04.jpg" alt="Party photo - gourmet caterer" data-cat="events" loading="lazy">
+      <img src="images/gallery/event-photo-05.jpg" alt="Event photo - The Party Specialist LLC" data-cat="events" loading="lazy">
+      <img src="images/gallery/event-photo-06.jpeg" alt="Celebration photo - caterer Massachusetts" data-cat="events" loading="lazy">
+      <img src="images/gallery/room-setup-02.jpeg" alt="Event setup photo - North Shore event planner" data-cat="rooms" loading="lazy">
+      <img src="images/gallery/event-photo-07.jpeg" alt="Party photo - Swampscott caterer" data-cat="events" loading="lazy">
+      <img src="images/gallery/event-photo-08.jpeg" alt="Celebration photo - event catering" data-cat="events" loading="lazy">
+    </div>
+  </div>
+</section>
+
+<!-- Lightbox -->
+<div class="lightbox" id="lightbox" onclick="this.classList.remove('active')">
+  <span class="lightbox-close">&times;</span>
+  <img id="lightbox-img" src="" alt="Gallery photo enlarged">
+</div>
+
+<section style="background: #1B2A4A; color: #FFF8F0; text-align: center; padding: 60px 0;">
+  <div class="container">
+    <h2 style="color: #FFF8F0;">Imagine Your Event Here</h2>
+    <p style="max-width: 500px; margin: 0 auto 30px; opacity: 0.85;">Let's create something beautiful together.</p>
+    <a href="contact.html" class="btn btn-gold">Start Planning</a>
+  </div>
+</section>
+
+<footer><div class="container"><div class="footer-grid"><div class="footer-brand"><img src="images/logo.svg" alt="The Party Specialist logo" width="50" height="50"><p class="logo-text" style="font-family: 'Playfair Display', serif;">The Party Specialist</p><p>North Shore's premier gourmet caterer and event planner since 1979.</p></div><div><h4>Quick Links</h4><ul><li><a href="story.html">Our Story</a></li><li><a href="services.html">Services</a></li><li><a href="menus.html">Sample Menus</a></li><li><a href="gallery.html">Gallery</a></li></ul></div><div><h4>More</h4><ul><li><a href="testimonials.html">Testimonials</a></li><li><a href="faq.html">FAQ</a></li><li><a href="contact.html">Contact</a></li></ul></div><div><h4>Contact</h4><ul><li><a href="tel:+17815920988">(781) 592-0988</a></li><li><a href="mailto:thepartyspecialistllc@gmail.com">Email Us</a></li><li>55 Atlantic Avenue</li><li>Swampscott, MA 01907</li></ul></div></div><div class="footer-bottom">&copy; 2026 The Party Specialist, LLC. All rights reserved.</div></div></footer>
+
+<script>
+function filterGallery(cat, btn) {
+  document.querySelectorAll('.gallery-filters button').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  document.querySelectorAll('.gallery-grid img').forEach(img => {
+    img.style.display = (cat === 'all' || img.dataset.cat === cat) ? '' : 'none';
+  });
+}
+document.querySelectorAll('.gallery-grid img').forEach(img => {
+  img.onclick = () => {
+    document.getElementById('lightbox-img').src = img.src;
+    document.getElementById('lightbox').classList.add('active');
+  };
+});
+</script>
+</body>
+</html>
